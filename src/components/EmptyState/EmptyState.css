@@ -1,0 +1,15 @@
+.empty-state {
+  padding: 58px 20px 34px;
+  color: #a0a0ad;
+  text-align: center;
+}
+
+.empty-state p {
+  margin: 0 0 6px;
+  color: #55576b;
+  font-weight: 700;
+}
+
+.empty-state span:last-child {
+  font-size: 0.85rem;
+}
